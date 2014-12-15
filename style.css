@@ -1,0 +1,74 @@
+*{
+margin: 0px;
+padding: 0px;	
+
+}
+body{
+font-family: 'Sintony',sans-serif;
+background: #FFF;
+color: #666;
+}
+
+body p{
+line-height: 1.5em;	
+}
+
+img{
+border: none;	
+}
+
+#playgroundnav{
+	margin-top: 15px;
+	float:left;
+	margin-left: 15px;
+}
+
+#DemoTitle{
+	width: 850px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: x-large;	
+}
+
+#topstripe{
+	background: #F90;
+	height: 50px;
+	width: 1300px;
+	padding-left: auto;
+	padding-right:auto;
+
+}
+
+#dclogo{
+	float:left;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 15px;
+	padding-right: 45px;
+	width: 230px;
+}
+
+#nextdemo{
+margin-left: 100px;	
+}
+
+#homepagecanvas{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	padding-top: 25px;
+	margin-bottom: 50px;
+}
+
+.orange{
+color: #F90;	
+}
+
+footer{
+	padding: 25px 0;
+	background-color: black;
+	color: #FF9900;
+	width: 100%;
+	clear: both;
+	margin-top:35px;
+}
